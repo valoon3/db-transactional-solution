@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch1-db-indexing.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ch1-db-indexing.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch1-db-indexing.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ch1-db-indexing.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/db-transaction-solution.iml" filepath="$PROJECT_DIR$/db-transaction-solution.iml" />
     </modules>
   </component>

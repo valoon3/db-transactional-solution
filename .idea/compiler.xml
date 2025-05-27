@@ -8,10 +8,13 @@
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.38/57f8f5e02e92a30fd21b80cbd426a4172b5f8e29/lombok-1.18.38.jar" />
         </processorPath>
         <module name="ch1-db-indexing.main" />
+        <module name="ch1-db-indexing.test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="db-indexing" target="21" />
+      <module name="db-indexing.main" target="21" />
+      <module name="db-indexing.test" target="21" />
     </bytecodeTargetLevel>
   </component>
 </project>
