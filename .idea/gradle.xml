@@ -12,6 +12,10 @@
           </set>
         </option>
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/ch2-db-query-optimization" />
+        <option name="gradleJvm" value="corretto-21" />
+      </GradleProjectSettings>
     </option>
   </component>
 </project>
